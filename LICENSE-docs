@@ -1,0 +1,20 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2026 Kei Imai
+
+The following materials of this project are licensed under CC BY-NC 4.0:
+
+- HOW_TO_USE_Mac.html and HOW_TO_USE_Windows.html, including the photos in them
+- the demo videos (R_demo_jp_Mac.mp4, R_demo_jp_Windows.mp4, R_demo_en_Mac.mp4 and R_demo_en_Windows.mp4
+  attached to the releases)
+
+The photos show the screens of software made by others (such as RStudio, macOS, Windows, Microsoft Edge
+and Docker Desktop). The rights to those screens remain with their respective owners; this license covers only the author's
+own contribution (the text, the selection and arrangement of the photos, and the marks added to them).
+
+You may share and adapt them for non-commercial purposes, if you give appropriate credit, provide a link to the license, and indicate if changes were made. Commercial use is not permitted.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+All other files (the code and the other documents) are licensed under the MIT License (see LICENSE).
+Software downloaded when the environment is prepared (such as R, Python and their packages) is not included; it follows the terms of its own authors.

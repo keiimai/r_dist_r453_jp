@@ -1,0 +1,2 @@
+# --- Windows の起動用のファイルは、改行を CRLF にする（cmd が LF の行で誤動作することがあるため）---
+*.bat text eol=crlf
